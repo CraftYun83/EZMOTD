@@ -1,0 +1,10 @@
+name: DeathRun-Test
+version: 1.0
+author: CraftYun83
+main: com.craftyun83.deathrun.Main
+description: test deathrun plugin
+
+commands:
+  deathrun:
+    aliases: [dr]
+    description: Test Deathrun plugin
